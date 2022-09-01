@@ -2,4 +2,4 @@
 
 # Project errorBot
 
-Its a fun little project to support new coders
+Its a fun little project to support new coders.
