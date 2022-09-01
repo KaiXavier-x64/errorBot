@@ -1,1 +1,1 @@
-# errorBot
+# Project errorBot
